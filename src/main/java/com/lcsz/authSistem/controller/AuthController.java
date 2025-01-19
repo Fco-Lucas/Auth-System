@@ -1,10 +1,10 @@
 package com.lcsz.authSistem.controller;
 
 import com.lcsz.authSistem.config.security.TokenService;
-import com.lcsz.authSistem.domain.user.AuthDto;
-import com.lcsz.authSistem.domain.user.LoginResponseDto;
-import com.lcsz.authSistem.domain.user.RegisterDto;
-import com.lcsz.authSistem.domain.user.User;
+import com.lcsz.authSistem.dto.auth.AuthDto;
+import com.lcsz.authSistem.dto.auth.LoginResponseDto;
+import com.lcsz.authSistem.dto.auth.RegisterDto;
+import com.lcsz.authSistem.model.user.User;
 import com.lcsz.authSistem.repository.UserRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

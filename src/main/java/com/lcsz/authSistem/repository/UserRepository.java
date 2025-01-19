@@ -1,6 +1,6 @@
 package com.lcsz.authSistem.repository;
 
-import com.lcsz.authSistem.domain.user.User;
+import com.lcsz.authSistem.model.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 

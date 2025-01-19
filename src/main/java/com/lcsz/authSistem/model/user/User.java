@@ -1,4 +1,4 @@
-package com.lcsz.authSistem.domain.user;
+package com.lcsz.authSistem.model.user;
 
 import jakarta.persistence.*;
 import lombok.*;

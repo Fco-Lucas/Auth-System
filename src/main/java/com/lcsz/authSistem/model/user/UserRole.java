@@ -1,4 +1,4 @@
-package com.lcsz.authSistem.domain.user;
+package com.lcsz.authSistem.model.user;
 
 public enum UserRole {
     ADMIN("admin"),

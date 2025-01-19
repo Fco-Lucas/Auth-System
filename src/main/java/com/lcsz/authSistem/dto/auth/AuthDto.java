@@ -1,4 +1,4 @@
-package com.lcsz.authSistem.domain.user;
+package com.lcsz.authSistem.dto.auth;
 
 public record AuthDto(String login, String password) {
 }
